@@ -12,7 +12,7 @@ import random
 import time
 
 # The Clicker/Cookie Upgrader
-Cookies_Baked = 2000
+Cookies_Baked = 0
 Cookies_Increased_Size = 1
 Clicker_Upgrade_Price = 15
 Amount_Of_Clickers = 0
